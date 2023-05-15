@@ -43,7 +43,7 @@ Durante o curso, foram utilizados diversos recursos e ferramentas. Seguem alguma
 
 ## Contribuindo
 
-Contribuições são sempre bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, abra uma [issue](https://github.com/herbertonlaur/Teste-API-Rest-Kotlin/issues) ou envie um [pull request](https://github.com/herbertonlaur/Teste-API-Rest-Kotlin/pulls).
+Contribuições são sempre bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, abra uma [issue](https://github.com/herbertonlauro/Teste-API-Rest-Kotlin/issues) ou envie um [pull request](https://github.com/herbertonlauro/Teste-API-Rest-Kotlin/pulls).
 
 ## Autor
 
