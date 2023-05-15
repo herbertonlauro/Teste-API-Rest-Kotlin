@@ -47,4 +47,4 @@ Contribuições são sempre bem-vindas! Se você encontrar algum problema ou tiv
 
 ## Autor
 
-Este curso foi desenvolvido por [Camila Cavalcante](https://github.com/cami-la) e adaptado para o GitHub por [Herberton Lauro](https://github.com/herbertonlauro.
+Este curso foi desenvolvido por [Camila Cavalcante](https://github.com/cami-la) e adaptado para o GitHub por [Herberton Lauro](https://github.com/herbertonlauro).
